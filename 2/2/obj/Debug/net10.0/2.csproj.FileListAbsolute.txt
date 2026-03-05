@@ -1,0 +1,14 @@
+S:\cssza\2\2\bin\Debug\net10.0\2.exe
+S:\cssza\2\2\bin\Debug\net10.0\2.deps.json
+S:\cssza\2\2\bin\Debug\net10.0\2.runtimeconfig.json
+S:\cssza\2\2\bin\Debug\net10.0\2.dll
+S:\cssza\2\2\bin\Debug\net10.0\2.pdb
+S:\cssza\2\2\obj\Debug\net10.0\2.GeneratedMSBuildEditorConfig.editorconfig
+S:\cssza\2\2\obj\Debug\net10.0\2.AssemblyInfoInputs.cache
+S:\cssza\2\2\obj\Debug\net10.0\2.AssemblyInfo.cs
+S:\cssza\2\2\obj\Debug\net10.0\2.csproj.CoreCompileInputs.cache
+S:\cssza\2\2\obj\Debug\net10.0\2.dll
+S:\cssza\2\2\obj\Debug\net10.0\refint\2.dll
+S:\cssza\2\2\obj\Debug\net10.0\2.pdb
+S:\cssza\2\2\obj\Debug\net10.0\2.genruntimeconfig.cache
+S:\cssza\2\2\obj\Debug\net10.0\ref\2.dll
