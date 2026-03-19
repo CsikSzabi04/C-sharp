@@ -1,0 +1,14 @@
+S:\cssza\Statics01\Statics01\bin\Debug\net10.0\Statics01.exe
+S:\cssza\Statics01\Statics01\bin\Debug\net10.0\Statics01.deps.json
+S:\cssza\Statics01\Statics01\bin\Debug\net10.0\Statics01.runtimeconfig.json
+S:\cssza\Statics01\Statics01\bin\Debug\net10.0\Statics01.dll
+S:\cssza\Statics01\Statics01\bin\Debug\net10.0\Statics01.pdb
+S:\cssza\Statics01\Statics01\obj\Debug\net10.0\Statics01.GeneratedMSBuildEditorConfig.editorconfig
+S:\cssza\Statics01\Statics01\obj\Debug\net10.0\Statics01.AssemblyInfoInputs.cache
+S:\cssza\Statics01\Statics01\obj\Debug\net10.0\Statics01.AssemblyInfo.cs
+S:\cssza\Statics01\Statics01\obj\Debug\net10.0\Statics01.csproj.CoreCompileInputs.cache
+S:\cssza\Statics01\Statics01\obj\Debug\net10.0\Statics01.dll
+S:\cssza\Statics01\Statics01\obj\Debug\net10.0\refint\Statics01.dll
+S:\cssza\Statics01\Statics01\obj\Debug\net10.0\Statics01.pdb
+S:\cssza\Statics01\Statics01\obj\Debug\net10.0\Statics01.genruntimeconfig.cache
+S:\cssza\Statics01\Statics01\obj\Debug\net10.0\ref\Statics01.dll
