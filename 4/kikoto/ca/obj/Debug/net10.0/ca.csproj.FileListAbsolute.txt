@@ -1,0 +1,14 @@
+S:\cssza\4\kikoto\ca\bin\Debug\net10.0\ca.exe
+S:\cssza\4\kikoto\ca\bin\Debug\net10.0\ca.deps.json
+S:\cssza\4\kikoto\ca\bin\Debug\net10.0\ca.runtimeconfig.json
+S:\cssza\4\kikoto\ca\bin\Debug\net10.0\ca.dll
+S:\cssza\4\kikoto\ca\bin\Debug\net10.0\ca.pdb
+S:\cssza\4\kikoto\ca\obj\Debug\net10.0\ca.GeneratedMSBuildEditorConfig.editorconfig
+S:\cssza\4\kikoto\ca\obj\Debug\net10.0\ca.AssemblyInfoInputs.cache
+S:\cssza\4\kikoto\ca\obj\Debug\net10.0\ca.AssemblyInfo.cs
+S:\cssza\4\kikoto\ca\obj\Debug\net10.0\ca.csproj.CoreCompileInputs.cache
+S:\cssza\4\kikoto\ca\obj\Debug\net10.0\ca.dll
+S:\cssza\4\kikoto\ca\obj\Debug\net10.0\refint\ca.dll
+S:\cssza\4\kikoto\ca\obj\Debug\net10.0\ca.pdb
+S:\cssza\4\kikoto\ca\obj\Debug\net10.0\ca.genruntimeconfig.cache
+S:\cssza\4\kikoto\ca\obj\Debug\net10.0\ref\ca.dll
